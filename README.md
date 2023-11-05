@@ -17,8 +17,6 @@ This Streamlit app provides a Question & Answering interface for the Black Mater
 
 This app uses text from the Black Maternal Health Momnibus Act of 2023, which is publicly available information. The full document is linked at the bottom of this page. It was developed by Andrea Hobby.
 
-- [Andrea Hobby](https://avatars.githubusercontent.com/u/AndreaHobby)
-
 - [Andrea Hobby's LinkedIn Profile](https://www.linkedin.com/in/andreahobby/)
 
 ## Instructions
@@ -34,7 +32,6 @@ You can find the app running live at [URL].
 ## References
 
 - [Download the Full Legislation Document here](https://www.congress.gov/118/bills/hr3305/BILLS-118hr3305ih.pdf)
-- [Link to GitHub Repository](https://github.com/AndreaHobby/MaternalHealthLegislationApp)
 
 ## Disclaimer
 

@@ -11,7 +11,7 @@ This Streamlit app provides a Question & Answering interface for the Black Mater
 - [Usage](#usage)
 - [References](#references)
 - [Disclaimer](#disclaimer)
-- [Author](#author)
+
 
 ## About this App
 
@@ -41,8 +41,4 @@ This app utilizes a language model developed by OpenAI (GPT-3.5 Turbo) to provid
 - The language model's responses may not always be up-to-date or completely accurate, and they may vary over time as the model evolves.
 - For the most accurate and current information on maternal health legislation, consult relevant government officials, policy experts, and authoritative sources.
 
-## Author
 
-This app was developed by [Andrea Hobby](https://www.linkedin.com/in/andreahobby/). You can contact the author via LinkedIn or [GitHub](https://github.com/AndreaHobby).
-
-![Andrea Hobby](https://avatars.githubusercontent.com/u/INSERT_USER_ID)

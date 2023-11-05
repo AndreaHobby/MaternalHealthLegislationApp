@@ -27,7 +27,7 @@ This app uses text from the Black Maternal Health Momnibus Act of 2023, which is
 
 ## Usage
 
-You can find the app running live at [URL].
+You can find the app running live at [[URL](https://maternalhealthlegislationapp.streamlit.app)].
 
 ## References
 
